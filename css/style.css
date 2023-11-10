@@ -12,15 +12,68 @@
 
 .container-main-green{
     background-color: #1ABC9C;
-    height: 300px;
 }
 
 /****** HEADER ******/
-
+.content-header{
+    background-color: white;
+    height: 90px;
+    margin: 5px;
+}
 
 
 /****** MAIN ******/
+.content-jumbo{
+    background-color: blanchedalmond;
+    height: 300px;
+    margin: 10px;
+}
 
+.content-title{
+    background-color: rgb(102, 102, 250);
+    height: 100px;
+    margin-top: 20px;
+}
 
+.height-content{
+    height: 200px;
+    border-radius: 10px;
+}
+
+.content-bg-red {
+    background-color: #BA4B63;
+}
+
+.content-bg-light-blue{
+    background-color: #1EA4B6;
+}
+
+.content-bg-black {
+    background-color: #140F0F;
+}
+
+.content-bg-blue {
+    background-color: #1C83C1;
+}
+
+.content-bg-dark-blue {
+    background-color: #0E38B5;
+}
+
+.content-bg-beige {
+    background-color: #CCB2A3;
+    margin-bottom: 50px;
+}
+
+.content-text-center{
+    background-color: white;
+    height: 150px;
+}
+
+.content-button{
+    background-color: beige;
+    height: 50px;
+    margin-bottom: 20px;
+}
 
 /****** FOOTER ******/
