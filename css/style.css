@@ -84,6 +84,21 @@
 .content-form{
     background-color: rgb(123, 186, 241);
     height: 250px;
+    margin-bottom: 20px;
 }
 
+
 /****** FOOTER ******/
+.container-footer-up{
+    background-color: #3A546D;
+}
+
+.container-footer-down{
+background-color: #2C3E50;
+}
+
+.content-footer-down{
+    background-color: white;
+    height: 50px;
+    margin-bottom: 10px;
+}
