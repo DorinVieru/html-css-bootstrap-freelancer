@@ -3,3 +3,24 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/****** COMMONS ******/
+.container-header{
+    background-color: #2C3E50;
+    height: 100px;
+}
+
+.container-main-green{
+    background-color: #1ABC9C;
+    height: 300px;
+}
+
+/****** HEADER ******/
+
+
+
+/****** MAIN ******/
+
+
+
+/****** FOOTER ******/
