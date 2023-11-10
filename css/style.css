@@ -80,4 +80,10 @@
     margin-bottom: 15px;
 }
 
+/* CONTAINER BG-WHITE 2 */
+.content-form{
+    background-color: rgb(123, 186, 241);
+    height: 250px;
+}
+
 /****** FOOTER ******/
