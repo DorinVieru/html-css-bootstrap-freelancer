@@ -23,12 +23,15 @@
 
 
 /****** MAIN ******/
+
+/* CONTAINER BG-GREEN */
 .content-jumbo{
     background-color: blanchedalmond;
     height: 300px;
     margin: 10px;
 }
 
+/* CONTAINER BG-WHITE */
 .content-title{
     background-color: rgb(102, 102, 250);
     height: 100px;
@@ -65,6 +68,7 @@
     margin-bottom: 50px;
 }
 
+/* CONTAINER BG-GREEN 2 */
 .content-text-center{
     background-color: white;
     height: 150px;
@@ -73,7 +77,7 @@
 .content-button{
     background-color: beige;
     height: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 /****** FOOTER ******/
