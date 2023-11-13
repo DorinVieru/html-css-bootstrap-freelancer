@@ -38,6 +38,8 @@ li{
     display: inline-block;
 }
 
+
+
 /****** MAIN ******/
 
 /* CONTAINER JUMBO */
@@ -67,11 +69,20 @@ hr{
 
 
 /* CONTAINER FORM */
-.content-form{
-    background-color: rgb(123, 186, 241);
-    height: 250px;
-    margin-bottom: 20px;
+.my-form{
+    border-bottom: 1px solid lightgray;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    padding-bottom: 15px;
 }
+
+.button-color{
+    background-color: #1ABC9C;
+    border-color: #1ABC9C;
+}
+
 
 
 /****** FOOTER ******/
