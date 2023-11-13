@@ -8,6 +8,8 @@
 .container-header{
     background-color: #2C3E50;
     height: 100px;
+    display: flex;
+    align-items: center;
 }
 
 .container-main-green{
@@ -15,12 +17,29 @@
 }
 
 /****** HEADER ******/
-.content-header{
-    background-color: white;
-    height: 90px;
-    margin: 5px;
+.fa-bars{
+    color: gray;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 7px 15px;
+    font-size: 23px;
 }
 
+.show{
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    padding: 0 10px;
+}
 
 /****** MAIN ******/
 
@@ -101,4 +120,14 @@ background-color: #2C3E50;
     background-color: white;
     height: 50px;
     margin-bottom: 10px;
+}
+
+@media screen and (min-width:768px){
+    .show{
+        display: none;
+    }
+
+    .hidden{
+        display: block;
+    }
 }
