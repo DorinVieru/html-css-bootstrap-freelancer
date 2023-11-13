@@ -55,7 +55,7 @@ li{
 }
 
 hr{
-    width: 100px;
+    width: 80px;
     border: 2px solid;
 }
 
@@ -65,19 +65,8 @@ hr{
     color: #2C3E50;
 }
 
-/* CONTAINER BG-GREEN */
-.content-text-center{
-    background-color: white;
-    height: 150px;
-}
 
-.content-button{
-    background-color: beige;
-    height: 50px;
-    margin-bottom: 15px;
-}
-
-/* CONTAINER BG-WHITE 2 */
+/* CONTAINER FORM */
 .content-form{
     background-color: rgb(123, 186, 241);
     height: 250px;
