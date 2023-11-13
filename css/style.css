@@ -34,6 +34,10 @@ ul{
     padding: 0;
 }
 
+.ul-header{
+    padding: 0 15px;
+}
+
 li{
     display: inline-block;
 }
@@ -90,12 +94,22 @@ hr{
     background-color: #3A546D;
 }
 
-.container-footer-down{
-background-color: #2C3E50;
+.fa-brands{
+    border: 1px solid white;
+    border-radius: 100%;
+    padding: 11px;
+    margin: 5px 3px;
 }
 
-.content-footer-down{
-    background-color: white;
-    height: 50px;
-    margin-bottom: 10px;
+.fa-facebook-f{
+    padding: 11px 16px;
+}
+
+a{
+    color: #1ABC9C;
+    text-decoration: none;
+}
+
+.container-footer-down{
+background-color: #2C3E50;
 }
